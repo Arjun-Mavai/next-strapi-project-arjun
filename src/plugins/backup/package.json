@@ -1,0 +1,10 @@
+{
+    "name": "strapi-plugin-backup",
+    "version": "0.1.0",
+    "description": "A Strapi plugin for automated database backups",
+    "main": "index.js",
+    "dependencies": {
+      "node-cron": "^3.0.0"
+    }
+  }
+  

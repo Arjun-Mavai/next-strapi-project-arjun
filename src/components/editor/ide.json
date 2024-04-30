@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_editor_ides",
+  "info": {
+    "displayName": "IDE",
+    "icon": "earth"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    }
+  }
+}

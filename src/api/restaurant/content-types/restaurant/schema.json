@@ -4,7 +4,8 @@
   "info": {
     "singularName": "restaurant",
     "pluralName": "restaurants",
-    "displayName": "Restaurant"
+    "displayName": "Menu",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -19,6 +20,15 @@
     "description": {
       "type": "blocks",
       "required": true
+    },
+    "price": {
+      "type": "integer"
+    },
+    "All": {
+      "type": "boolean"
+    },
+    "slug": {
+      "type": "uid"
     }
   }
 }
